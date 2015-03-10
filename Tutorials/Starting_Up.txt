@@ -1,0 +1,11 @@
+Welcome to FlexTech Library's Arduino Tutorials. This is an index of tutorials designed to get students started with using an Arduino Microcontroller.
+
+
+Tutorial 1: Starting Up
+The purpose of this tutorial is to get new users started with an Arduino Uno Microcontroller.
+
+Required Tools:
+ - Arduino 1.6.1
+ - Arduino Uno Microcontroller
+ - Computer with USB ports and an Operating System that will support Arduino 1.6.1.
+ - USB A/B cable, ideally one that is made for Arduino.
